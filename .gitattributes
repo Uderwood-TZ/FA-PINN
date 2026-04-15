@@ -1,0 +1,6 @@
+case1/** filter=lfs diff=lfs merge=lfs -text
+case2/** filter=lfs diff=lfs merge=lfs -text
+case3/** filter=lfs diff=lfs merge=lfs -text
+case4/** filter=lfs diff=lfs merge=lfs -text
+case5/** filter=lfs diff=lfs merge=lfs -text
+case6/** filter=lfs diff=lfs merge=lfs -text
